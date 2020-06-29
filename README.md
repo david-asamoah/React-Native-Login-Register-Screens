@@ -10,7 +10,7 @@ Just download or clone the file into your system and run:
 
     yarn
 
- to install the required dependencies.
-
+ 
+to install the required dependencies. After that, `run expo start or yarn start to start` the expo server.
 That's all. Enjoy!
 
